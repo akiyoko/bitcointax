@@ -1,0 +1,6 @@
+Exchange,Date,Type,Symbol,Price,Amount,Total,Total (JPY),Base Currency,Base Currency Price (JPY),Fee,Fee Currency,Fee Currency Price (JPY),Profit (JPY)
+bitFlyer,2017/9/8 12:00,BUY,BTC,500000,0.999,499500,,JPY,,0.001,BTC,500000,
+Coincheck,2017/10/1 10:00,BUY,LTC,6000,20,120000,,JPY,,,,,
+Coincheck,2017/10/23 12:00,SELL,LTC,0.01,20,0.2,,BTC,,,,,
+bitFlyer,2017/11/5 10:00,OTHER,,,,,,,,0.0005,BTC,800000,
+Coincheck,2017/11/5 19:00,SELL,BTC,850000,1.1985,1018725,,JPY,,,,,
